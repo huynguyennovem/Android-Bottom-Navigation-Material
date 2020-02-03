@@ -6,10 +6,7 @@
 - Support back to primary Fragment.
 
 ### Demo
-[![Android Bottom Navigation Material](http://img.youtube.com/vi/yu3wM-9z1XM/0.jpg)](http://www.youtube.com/watch?v=Yyu3wM-9z1XM)
-
-[Android Bottom Navigation Material](https://www.youtube.com/watch?v=yu3wM-9z1XM)
-
+![Android Bottom Navigation Material](https://media.giphy.com/media/lMC4b9HtUpcDiml7Fc/giphy.gif)
 
 ### Contribution
 Contributions are welcome. Feel free to submit a pull request to contribute to this project.
